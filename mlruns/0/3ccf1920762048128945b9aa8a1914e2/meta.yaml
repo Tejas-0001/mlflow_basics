@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sraj2/PycharmProjects/mlflow/mlruns/0/3ccf1920762048128945b9aa8a1914e2/artifacts
+end_time: 1715799216467
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ccf1920762048128945b9aa8a1914e2
+run_name: sincere-mink-99
+run_uuid: 3ccf1920762048128945b9aa8a1914e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715799214677
+status: 3
+tags: []
+user_id: sraj2
